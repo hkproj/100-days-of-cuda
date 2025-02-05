@@ -58,7 +58,7 @@ Announce your repo in the Discord channel and we will verify if you actually del
 | skj092              | [Link](https://github.com/skj092/cuda-programming)                                          |
 | ysurs               | [Link](https://github.com/ysurs/cuda-100-days)                                              |
 | zmusaddique         | [Link](https://github.com/zmusaddique/100daysCUDA)                                          |
-
+| mananchawla2005     | [Link](https://github.com/mananchawla2005/gpukernels)                                          |
 
 
 ## Participants (10 days badge)
