@@ -56,6 +56,7 @@ Announce your repo in the Discord channel and we will verify if you actually del
 | MZSHAN              | [Link](https://github.com/MZSHAN/iqra/tree/main/100daysCuda)                                |                  |
 | nevernever69        | [Link](https://github.com/nevernever69/100-days-of-cuda)                                    |                  |
 | Noman-Ali-Bajwa     | [Link](https://github.com/Noman-Ali-Bajwa/100-days-of-cuda/)                                |                  |
+| palash04            | [Link](https://github.com/palash04/100DaysCUDA/)                                            |                  |
 | prateekshukla1108   | [Link](https://github.com/prateekshukla1108/100-daysofcuda)                                 |                  |
 | PredictiveManish    | [Link](https://github.com/PredictiveManish/100days)                                         |                  |
 | prem-16             | [Link](https://github.com/prem-16/100-days-CUDA-challenge/)                                 |                  |
