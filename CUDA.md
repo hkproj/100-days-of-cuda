@@ -39,7 +39,7 @@ Announce your repo in the Discord channel and we will verify if you actually del
 | asrjy               | [Link](https://github.com/asrjy/gpu)                                                        | 🎖️               |
 | AyoubMDL            | [Link](https://github.com/AyoubMDL/cuda)                                                    |                  |
 | bhavyashahh         | [Link](https://github.com/bhavyashahh/nexus-ai/tree/main/projects/bhavya-100-days-of-cuda/) |                  |
-| binarycache         | [Link](https://github.com/binarycache/100-days-of-GPU)                                      |                  |
+| binarycache         | [Link](https://github.com/binarycache/100-days-of-GPU)                                      | 🎖️              |
 | derekdeming         | [Link](https://github.com/derekdeming/tinyCuda)                                             |                  |
 | doudi25             | [Link](https://github.com/doudi25/Triton)                                                   |                  |
 | Firojpaudel         | [Link](https://github.com/Firojpaudel/100_days_of_CUDA)                                     | 🎖️               |
@@ -51,6 +51,7 @@ Announce your repo in the Discord channel and we will verify if you actually del
 | khushwant04         | [Link](https://github.com/khushwant04/100-Days-CUDA)                                        |                  |
 | kmohan321           | [Link](https://github.com/kmohan321/CUDA)                                                   | 🎖️               |
 | kosbeko             | [Link](https://github.com/kosbeko/100DaysGPU)                                               |                  |
+| LakshyaSingh354     | [Link](https://github.com/LakshyaSingh354/100-days-of-cuda)                                 |                  |
 | mananchawla2005     | [Link](https://github.com/mananchawla2005/gpukernels/)                                      |                  |
 | mathysgrapotte      | [Link](https://github.com/mathysgrapotte/100DaysCUDA/)                                      | 🎖️               |
 | Meeex2              | [Link](https://github.com/Meeex2/cuda/)                                                     | 🎖️               |
@@ -99,6 +100,7 @@ Announce your repo in the Discord channel and we will verify if you actually del
 | aryagxr             | [Link](https://github.com/aryagxr/cuda)                     |
 | ashwin3005          | [Link](https://github.com/ashwin3005/CUDA)                  |
 | asrjy               | [Link](https://github.com/asrjy/gpu)                        |
+| binarycache         | [Link](https://github.com/binarycache/100-days-of-GPU)      |
 | Firojpaudel         | [Link](https://github.com/Firojpaudel/100_days_of_CUDA)     |
 | harshkumarchourasia | [Link](https://github.com/harshkumarchourasia/100DaysOfGPU) |
 | johannn05           | [Link](https://github.com/johannn05/100DaysCUDA/)           |
