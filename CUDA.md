@@ -37,6 +37,7 @@ Announce your repo in the Discord channel and we will verify if you actually del
 | aryagxr             | [Link](https://github.com/aryagxr/cuda)                                                     | 🎖️               |
 | ashwin3005          | [Link](https://github.com/ashwin3005/CUDA)                                                  | 🎖️               |
 | asrjy               | [Link](https://github.com/asrjy/gpu)                                                        | 🎖️               |
+| asrjy               | [Link](https://github.com/assemihab/100_Days_of_GPU)                                        |                  |
 | AyoubMDL            | [Link](https://github.com/AyoubMDL/cuda)                                                    |                  |
 | bhavyashahh         | [Link](https://github.com/bhavyashahh/nexus-ai/tree/main/projects/bhavya-100-days-of-cuda/) |                  |
 | binarycache         | [Link](https://github.com/binarycache/100-days-of-GPU)                                      | 🎖️              |
@@ -64,6 +65,7 @@ Announce your repo in the Discord channel and we will verify if you actually del
 | nevernever69        | [Link](https://github.com/nevernever69/100-days-of-cuda)                                    | 🎖️               |
 | Nithish-Yadav-31    | [Link](https://github.com/Nithish-Yadav-31/CUDA-kernels-100-Days/)                          |                  |
 | Noman-Ali-Bajwa     | [Link](https://github.com/Noman-Ali-Bajwa/100-days-of-cuda/)                                |                  |
+| Omkar-Kakade-Github | [Link](https://github.com/Omkar-Kakade-Github/100_days_of_GPU_challenge)                    |                  |
 | p-kris10            | [Link](https://github.com/p-kris10/100DaysofGPU)                                            |                  |
 | palash04            | [Link](https://github.com/palash04/100DaysCUDA)                                             |                  |
 | palxx               | [Link](https://github.com/palxx/_100_days_of_CUDA/)                                         |                  |
