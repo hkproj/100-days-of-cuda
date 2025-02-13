@@ -22,6 +22,8 @@ Announce your repo in the Discord channel and we will verify if you actually del
 
 ## List of active challanges
 
+Last update: 2025.02.13
+
 | Name                | Repository                                                                                  | Badges           |
 | ------------------- | ------------------------------------------------------------------------------------------- |------------------|
 | 1y33                | [Link](https://github.com/1y33/100Days)                                                     | 🎖️🎖️            |
