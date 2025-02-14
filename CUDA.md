@@ -22,7 +22,7 @@ Announce your repo in the Discord channel and we will verify if you actually del
 
 ## List of active challanges
 
-Last update: 2025.02.13
+Last update: 2025.02.14
 
 | Name                | Repository                                                                                  | Badges           |
 | ------------------- | ------------------------------------------------------------------------------------------- |------------------|
@@ -41,7 +41,7 @@ Last update: 2025.02.13
 | ashwin3005          | [Link](https://github.com/ashwin3005/CUDA)                                                  | 🎖️               |
 | asrjy               | [Link](https://github.com/asrjy/gpu)                                                        | 🎖️               |
 | assemihab           | [Link](https://github.com/assemihab/100_Days_of_GPU)                                        |                  |
-| AyoubMDL            | [Link](https://github.com/AyoubMDL/cuda)                                                    |                  |
+| AyoubMDL            | [Link](https://github.com/AyoubMDL/cuda)                                                    | 🎖️               |
 | bhavyashahh         | [Link](https://github.com/bhavyashahh/nexus-ai/tree/main/projects/bhavya-100-days-of-cuda/) |                  |
 | binarycache         | [Link](https://github.com/binarycache/100-days-of-GPU)                                      | 🎖️              |
 | derekdeming         | [Link](https://github.com/derekdeming/tinyCuda)                                             |                  |
@@ -106,6 +106,7 @@ Last update: 2025.02.13
 | aryagxr             | [Link](https://github.com/aryagxr/cuda)                     |
 | ashwin3005          | [Link](https://github.com/ashwin3005/CUDA)                  |
 | asrjy               | [Link](https://github.com/asrjy/gpu)                        |
+| AyoubMDL            | [Link](https://github.com/AyoubMDL/cuda)                    |
 | binarycache         | [Link](https://github.com/binarycache/100-days-of-GPU)      |
 | Firojpaudel         | [Link](https://github.com/Firojpaudel/100_days_of_CUDA)     |
 | harshkumarchourasia | [Link](https://github.com/harshkumarchourasia/100DaysOfGPU) |
