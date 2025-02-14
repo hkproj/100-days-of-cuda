@@ -84,7 +84,7 @@ Last update: 2025.02.14
 | Sayandip170900      | [Link](https://github.com/Sayandip170900/CUDA-Challenge)                                    |                  |
 | ShlokVFX            | [Link](https://github.com/ShlokVFX/100-days-cuda/)                                          | 🎖️               |
 | skj092              | [Link](https://github.com/skj092/cuda-programming)                                          | 🎖️               |
-| SwekeR-463          | [Link](https://github.com/SwekeR-463/100kernels)                                            | 🎖️               |
+| SwekeR-463          | [Link](https://github.com/SwekeR-463/100kernels)                                            | 🎖️🎖️            |
 | Tungthanhlee        | [Link](https://github.com/Tungthanhlee/cuda/)                                               |                  |
 | Udayk02             | [Link](https://github.com/Udayk02/cuda)                                                     |                  |
 | vectorquantized     | [Link](https://github.com/vectorquantized/100daysofcuda)                                    | 🎖️               |
@@ -125,7 +125,6 @@ Last update: 2025.02.14
 | saurav997           | [Link](https://github.com/saurav997/100DaysOfCuda)          |
 | ShlokVFX            | [Link](https://github.com/ShlokVFX/100-days-cuda/)          |
 | skj092              | [Link](https://github.com/skj092/cuda-programming)          |
-| SwekeR-463          | [Link](https://github.com/SwekeR-463/100kernels)            |
 | vectorquantized     | [Link](https://github.com/vectorquantized/100daysofcuda)    |
 | zmusaddique         | [Link](https://github.com/zmusaddique/100daysCUDA)          |
 
@@ -134,10 +133,11 @@ Last update: 2025.02.14
 
 ![Badge 20 days](badges/badge_20_days_small.png)
 
-| Name    | Repository                               |
-| ------- | ---------------------------------------- |
-| 1y33    | [Link](https://github.com/1y33/100Days)  |
-| a-hamdi | [Link](https://github.com/a-hamdi/cuda/) |
+| Name       | Repository                                                  |
+| ---------- | ----------------------------------------------------------- |
+| 1y33       | [Link](https://github.com/1y33/100Days)                     |
+| a-hamdi    | [Link](https://github.com/a-hamdi/cuda/)                    |
+| SwekeR-463 | [Link](https://github.com/SwekeR-463/100kernels)            |
 
 ## Participants (30 days badge)
 
