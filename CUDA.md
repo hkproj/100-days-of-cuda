@@ -26,7 +26,7 @@ Last update: 2025.02.14
 
 | Name                | Repository                                                                                  | Badges           |
 | ------------------- | ------------------------------------------------------------------------------------------- |------------------|
-| 1y33                | [Link](https://github.com/1y33/100Days)                                                     | 🎖️🎖️            |
+| 1y33                | [Link](https://github.com/1y33/100Days)                                                     | 🎖️🎖️🎖️          |
 | a-hamdi             | [Link](https://github.com/a-hamdi/cuda)                                                     | 🎖️🎖️🎖️          |
 | AkashKarnatak       | [Link](https://github.com/AkashKarnatak/100-days-of-cuda/)                                  |                  |
 | Alexey Zaytsev      | [Link](https://xl0.github.io/cuda-100/)                                                     |                  |
@@ -135,7 +135,6 @@ Last update: 2025.02.14
 
 | Name       | Repository                                                  |
 | ---------- | ----------------------------------------------------------- |
-| 1y33       | [Link](https://github.com/1y33/100Days)                     |
 | SwekeR-463 | [Link](https://github.com/SwekeR-463/100kernels)            |
 
 ## Participants (30 days badge)
@@ -143,6 +142,7 @@ How about not thinking and just coding?
 
 | Name       | Repository                                                  |
 | ---------- | ----------------------------------------------------------- |
+| 1y33       | [Link](https://github.com/1y33/100Days)                     |
 | a-hamdi    | [Link](https://github.com/a-hamdi/cuda/)                    |
 
 ## Participants (40 days badge)
