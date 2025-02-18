@@ -22,7 +22,7 @@ Announce your repo in the Discord channel and we will verify if you actually del
 
 ## List of active challanges
 
-Last update: 2025.02.17
+Last update: 2025.02.18
 
 | Name                | Repository                                                                                  | Badges           |
 | ------------------- | ------------------------------------------------------------------------------------------- |------------------|
@@ -39,7 +39,7 @@ Last update: 2025.02.17
 | AramBughdaryan      | [Link](https://github.com/AramBughdaryan/cuda)                                              | 🎖️               |
 | arcAman07           | [Link](https://github.com/arcAman07/100-Days-of-GPU-Programming)                            |                  |
 | aryagxr             | [Link](https://github.com/aryagxr/cuda)                                                     | 🎖️               |
-| ashwin3005          | [Link](https://github.com/ashwin3005/CUDA)                                                  | 🎖️               |
+| ashwin3005          | [Link](https://github.com/ashwin3005/CUDA)                                                  | 🎖️🎖️            |
 | asrjy               | [Link](https://github.com/asrjy/gpu)                                                        | 🎖️🎖️            |
 | assemihab           | [Link](https://github.com/assemihab/100_Days_of_GPU)                                        |                  |
 | AyoubMDL            | [Link](https://github.com/AyoubMDL/cuda)                                                    | 🎖️               |
@@ -106,7 +106,6 @@ Last update: 2025.02.17
 | AramBughdaryan      | [Link](https://github.com/AramBughdaryan/cuda)              |
 | AmarnathaGowda      | [Link](https://github.com/AmarnathaGowda/50daysCUDA)        |
 | AnkitTsj            | [Link](https://github.com/AnkitTsj/cuda_learning)           |
-| aryagxr             | [Link](https://github.com/aryagxr/cuda)                     |
 | ashwin3005          | [Link](https://github.com/ashwin3005/CUDA)                  |
 | AyoubMDL            | [Link](https://github.com/AyoubMDL/cuda)                    |
 | binarycache         | [Link](https://github.com/binarycache/100-days-of-GPU)      |
@@ -136,6 +135,7 @@ Last update: 2025.02.17
 
 | Name                | Repository                                                  |
 | ------------------- | ----------------------------------------------------------- |
+| aryagxr             | [Link](https://github.com/aryagxr/cuda)                     |
 | asrjy               | [Link](https://github.com/asrjy/gpu)                        |
 | Firojpaudel         | [Link](https://github.com/Firojpaudel/100_days_of_CUDA)     |
 | kmohan321           | [Link](https://github.com/kmohan321/CUDA)                   |
