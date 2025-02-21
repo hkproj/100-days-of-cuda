@@ -22,7 +22,7 @@ Announce your repo in the Discord channel and we will verify if you actually del
 
 ## List of active challanges
 
-Last update: 2025.02.20
+Last update: 2025.02.21
 
 | Name                | Repository                                                                                  | Badges           |
 | ------------------- | ------------------------------------------------------------------------------------------- |------------------|
@@ -52,7 +52,7 @@ Last update: 2025.02.20
 | gauravparajuli      | [Link](https://github.com/gauravparajuli/100-days-of-cuda)                                  | 🎖️               |
 | gParshav            | [Link](https://github.com/gParshav/100-days-of-GPU)                                         |                  |
 | harshkumarchourasia | [Link](https://github.com/harshkumarchourasia/100DaysOfGPU)                                 | 🎖️               |
-| jsmidt              | [Link](https://github.com/jsmidt/100-days-of-grind)                                         |                  |
+| jsmidt              | [Link](https://github.com/jsmidt/100-days-of-grind)                                         | 🎖️               |
 | johannn05           | [Link](https://github.com/johannn05/100DaysCUDA)                                            | 🎖️               |
 | karthi-vijayakumaar | [Link](https://github.com/karthi-vijayakumaar/cuda-experiments/)                            |                  |
 | kartik-pz           | [Link](https://github.com/kartik-pz/cuda)                                                   |                  |
@@ -113,6 +113,7 @@ Last update: 2025.02.20
 | gauravparajuli      | [Link](https://github.com/gauravparajuli/100-days-of-cuda)  |
 | harshkumarchourasia | [Link](https://github.com/harshkumarchourasia/100DaysOfGPU) |
 | johannn05           | [Link](https://github.com/johannn05/100DaysCUDA/)           |
+| jsmidt              | [Link](https://github.com/jsmidt/100-days-of-grind)         |
 | mananchawla2005     | [Link](https://github.com/mananchawla2005/gpukernels/)      |
 | MahmoudMohajer      | [Link](https://github.com/MahmoudMohajer/Hundred-Day-GPU-Challenge) |
 | mathysgrapotte      | [Link](https://github.com/mathysgrapotte/100DaysCUDA/)      |
