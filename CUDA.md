@@ -153,7 +153,8 @@ Last update: 2025.02.23
 | vectorquantized     | [Link](https://github.com/vectorquantized/100daysofcuda)    |
 
 ## Participants (30 days badge)
-How about not thinking and just coding?
+
+![Badge 30 days](badges/badge_30_days_small.png)
 
 | Name       | Repository                                                  |
 | ---------- | ----------------------------------------------------------- |
@@ -162,7 +163,7 @@ How about not thinking and just coding?
 
 ## Participants (40 days badge)
 
-It's just a matter of time
+![Badge 40 days](badges/badge_40_days_small.png)
 
 ## Participants (50 days badge)
 
